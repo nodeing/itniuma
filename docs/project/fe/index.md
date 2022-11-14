@@ -14,7 +14,7 @@
 
 课程价格：49 元
 
-学习地址：[点击进入](http://localhost:8849/project/detail/1)
+学习地址：[点击进入](https://nodeing.com/project/detail/1)
 
 :::
 
