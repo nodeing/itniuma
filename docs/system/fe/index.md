@@ -7,5 +7,5 @@
 :::
 
 :::tip
-[html+css 快速入门](https://nodeing.com/system-class/9/detail/3)
+[html+css 快速入门](https://edu.nodeing.com/system-class/9/detail/3)
 :::
