@@ -7,5 +7,5 @@
 :::
 
 :::tip
-[html+css 快速入门](https://edu.nodeing.com/system-class/9/detail/3)
+[僰课学城全栈开发实战（第一季）](/system/fe/bokeedu)
 :::

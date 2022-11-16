@@ -1,6 +1,6 @@
 ---
 prev: false
-next: ""
+next: ''
 ---
 
 # 前端学习路线
@@ -15,6 +15,8 @@ next: ""
 :::
 
 ## 第一阶段 零基础入门
+
+[html+css 快速入门](/book/fe/html-css/chapter1/1.1.html)
 
 ## 第二阶段 前后端交互
 
