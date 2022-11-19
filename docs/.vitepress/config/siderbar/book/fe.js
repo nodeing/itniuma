@@ -108,5 +108,69 @@ export default {
         }
       ]
     }
+  ],
+  '/book/fe/typescript-rumen/': [
+    {
+      text: '第一章 基础信息',
+      collapsible: true,
+      items: [
+        {
+          text: '1.1.初识TypeScript',
+          link: '/book/fe/typescript-rumen/chapter1/1.1.html'
+        },
+        {
+          text: '1.2.体验Typescript',
+          link: '/book/fe/typescript-rumen/chapter1/1.2.html'
+        },
+        {
+          text: '1.3.vscode配置',
+          link: '/book/fe/typescript-rumen/chapter1/1.3.html'
+        }
+      ]
+    },
+    {
+      text: '第二章 基础语法',
+      collapsible: true,
+      items: [
+        {
+          text: '2.1.类型系统',
+          link: '/book/fe/typescript-rumen/chapter2/2.1.html'
+        },
+        {
+          text: '2.2.函数',
+          link: '/book/fe/typescript-rumen/chapter2/2.2.html'
+        },
+        {
+          text: '2.3.类',
+          link: '/book/fe/typescript-rumen/chapter2/2.3.html'
+        },
+        {
+          text: '2.4.接口',
+          link: '/book/fe/typescript-rumen/chapter2/2.4.html'
+        },
+        {
+          text: '2.5.泛型',
+          link: '/book/fe/typescript-rumen/chapter2/2.5.html'
+        }
+      ]
+    },
+    {
+      text: '第三章 语法进阶',
+      collapsible: true,
+      items: [
+        {
+          text: '3.1.语法细节(1)',
+          link: '/book/fe/typescript-rumen/chapter3/3.1.html'
+        },
+        {
+          text: '3.2.语法细节(2)',
+          link: '/book/fe/typescript-rumen/chapter3/3.2.html'
+        },
+        {
+          text: '3.3.语法细节(3)',
+          link: '/book/fe/typescript-rumen/chapter3/3.3.html'
+        }
+      ]
+    }
   ]
 }

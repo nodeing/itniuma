@@ -22,6 +22,8 @@ next: ''
 
 ## 第三阶段 Vue 全家桶
 
+[Typescript 入门](/book/fe/typescript-rumen/chapter1/1.1.html)
+
 ## 第四阶段 Nodejs 后端开发
 
 ## 第四阶段 APP 和小程序
