@@ -14,7 +14,7 @@
 
 课程价格：49 元
 
-学习地址：[点击进入](https://edu.nodeing.com/project/detail/1)
+学习地址：[点击进入](https://edu.nodeing.com/project/detail/7)
 
 :::
 
