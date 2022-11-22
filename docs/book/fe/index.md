@@ -18,6 +18,8 @@ next: ''
 
 [html+css 快速入门](/book/fe/html-css/chapter1/1.1.html)
 
+[JavaScript 语法基础](/book/fe/js-basic/chapter1/1.html)
+
 ## 第二阶段 前后端交互
 
 ## 第三阶段 Vue 全家桶

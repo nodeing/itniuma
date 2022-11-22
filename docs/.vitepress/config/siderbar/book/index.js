@@ -1,6 +1,8 @@
 import fe from './fe'
+import java from './java'
 export default {
   ...fe,
+  ...java,
   '/book/': [
     {
       text: '学习路线导航',

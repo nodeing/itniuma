@@ -172,5 +172,93 @@ export default {
         }
       ]
     }
+  ],
+  '/book/fe/js-basic/': [
+    {
+      text: '第一章 JS初体验',
+      collapsible: true,
+      items: [
+        {
+          text: '1.1.helloworld',
+          link: '/book/fe/js-basic/chapter1/1.html'
+        },
+        {
+          text: '1.2.基础概念',
+          link: '/book/fe/js-basic/chapter1/2.html'
+        },
+        {
+          text: '1.3.变量',
+          link: '/book/fe/js-basic/chapter1/3.html'
+        },
+        {
+          text: '1.4.查找元素的方法',
+          link: '/book/fe/js-basic/chapter1/4.html'
+        },
+        {
+          text: '1.5.事件、函数、以及属性操作',
+          link: '/book/fe/js-basic/chapter1/5.html'
+        },
+        {
+          text: '1.6.数据类型基础和操作符',
+          link: '/book/fe/js-basic/chapter1/6.html'
+        },
+        {
+          text: '1.7.流程控制',
+          link: '/book/fe/js-basic/chapter1/7.html'
+        }
+      ]
+    },
+    {
+      text: '第二章 变量、数据类型、运算符',
+      collapsible: true,
+      items: [
+        {
+          text: '2.1.变量',
+          link: '/book/fe/js-basic/chapter2/1.html'
+        },
+        {
+          text: '2.2.数据类型',
+          link: '/book/fe/js-basic/chapter2/2.html'
+        },
+        {
+          text: '2.3.运算符',
+          link: '/book/fe/js-basic/chapter2/3.html'
+        }
+      ]
+    },
+    {
+      text: '第三章 流程控制',
+      collapsible: true,
+      items: [
+        {
+          text: '3.1.分支结构',
+          link: '/book/fe/js-basic/chapter3/1.html'
+        },
+        {
+          text: '3.2.循环结构',
+          link: '/book/fe/js-basic/chapter3/2.html'
+        }
+      ]
+    },
+    {
+      text: '第四章 函数',
+      collapsible: true,
+      items: [
+        {
+          text: '4.1.函数详解',
+          link: '/book/fe/js-basic/chapter4/1.html'
+        }
+      ]
+    },
+    {
+      text: '第五章 数组',
+      collapsible: true,
+      items: [
+        {
+          text: '5.1.数组详解',
+          link: '/book/fe/js-basic/chapter5/1.html'
+        }
+      ]
+    }
   ]
 }

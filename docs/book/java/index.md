@@ -17,6 +17,8 @@
 
 ## 第一阶段 Java 基础
 
+[Java 基础入门](/book/java/java-basic/chapter1/1.html)
+
 ## 第二阶段 Java Web
 
 ## 第三阶段 主流框架
