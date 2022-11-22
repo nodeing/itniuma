@@ -260,5 +260,47 @@ export default {
         }
       ]
     }
+  ],
+  '/book/fe/js-shijian/': [
+    {
+      text: '第一章 事件基础',
+      collapsible: true,
+      items: [
+        {
+          text: '1.1.基础概念',
+          link: '/book/fe/js-shijian/chapter1/1.html'
+        },
+        {
+          text: '1.2.基础概念',
+          link: '/book/fe/js-shijian/chapter1/2.html'
+        },
+        {
+          text: '1.3.鼠标事件',
+          link: '/book/fe/js-shijian/chapter1/3.html'
+        },
+        {
+          text: '1.4.键盘事件',
+          link: '/book/fe/js-shijian/chapter1/4.html'
+        },
+        {
+          text: '1.5.窗口事件',
+          link: '/book/fe/js-shijian/chapter1/5.html'
+        }
+      ]
+    },
+    {
+      text: '第二章 事件对象',
+      collapsible: true,
+      items: [
+        {
+          text: '2.1.event对象',
+          link: '/book/fe/js-shijian/chapter2/1.html'
+        },
+        {
+          text: '2.1.事件冒泡',
+          link: '/book/fe/js-shijian/chapter2/2.html'
+        }
+      ]
+    }
   ]
 }
