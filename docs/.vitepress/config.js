@@ -3,6 +3,7 @@ import sidebar from './config/siderbar'
 export default {
   appearance: 'white',
   title: '洛邪',
+  base: 'itboma',
   description: '洛邪的编程笔记｜web3教程｜web3开发｜区块链｜智能合约｜dapp开发',
   head: [
     [
