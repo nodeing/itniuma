@@ -3,7 +3,7 @@ import sidebar from './config/siderbar'
 export default {
   appearance: 'white',
   title: '洛邪',
-  description: 'rust学习笔记',
+  description: '洛邪的编程笔记｜web3教程｜web3开发｜区块链｜智能合约｜dapp开发',
   head: [
     [
       'link',
@@ -11,6 +11,19 @@ export default {
         rel: 'icon',
         href: '/favicon.ico'
       }
+    ],
+    [
+      'script',
+      {},
+      `
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?8d087a0513b85ce3d318e24f4ff10057";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+      `
     ]
   ],
   themeConfig: {
