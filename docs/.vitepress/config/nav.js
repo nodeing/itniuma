@@ -1,6 +1,6 @@
 export default [
   { text: '首页', link: '/' },
-  { text: '代码', link: '/coding/' },
-  { text: '英语', link: '/english/' },
+  { text: '路线', link: '/learn-path/' },
+  { text: '服务', link: '/service/' },
   { text: '文章', link: '/article/' }
 ]

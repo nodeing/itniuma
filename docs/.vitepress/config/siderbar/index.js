@@ -1,4 +1,5 @@
 import article from './article'
-import coding from './coding'
+import learnpath from './learn-path'
+import service from './service'
 
-export default { ...article, ...coding }
+export default { ...article, ...learnpath, ...service }

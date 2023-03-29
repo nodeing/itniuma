@@ -1,4 +1,7 @@
+import article from './article'
+
 export default {
+  ...article,
   '/article/': [
     {
       text: '文章归档',

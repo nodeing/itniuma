@@ -1,10 +1,11 @@
 import nav from './config/nav'
 import sidebar from './config/siderbar'
 export default {
-  appearance: 'white',
-  title: '洛邪',
+  appearance: 'black',
+  title: '牛马程序员',
   base: '/',
-  description: '洛邪的编程笔记｜web3教程｜web3开发｜区块链｜智能合约｜dapp开发',
+  description:
+    '牛马程序员编程笔记｜web3教程｜Java开发｜python开发｜前端开发｜Golang开发',
   head: [
     [
       'link',
@@ -28,7 +29,7 @@ export default {
     ]
   ],
   themeConfig: {
-    siteTitle: '洛邪',
+    siteTitle: '牛马程序员',
     logo: '/logo.png',
     outlineTitle: '大纲',
     nav,
@@ -37,7 +38,7 @@ export default {
     footer: {
       message: '我的微信: nodeing-cn',
       copyright:
-        "课程内容版权均归 洛邪 版权所有;ICP备案号：<a href='https://beian.miit.gov.cn/#/Integrated/index'>蜀ICP备2022017859号</a>"
+        "课程内容版权均归 洛邪 版权所有;ICP备案号：<a href='https://beian.miit.gov.cn/#/Integrated/index'>蜀ICP备2022017888号</a>"
     }
   }
 }
