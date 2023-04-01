@@ -4,6 +4,30 @@
 
 这里是牛马程序员官方资料库
 
+## 使用步骤
+
+第 1 步，clone 项目
+
+```
+git clone https://github.com/nodeing/itboma.git
+```
+
+第 2 步，进入到项目，安装依赖
+
+```
+cd itboma
+```
+
+```
+npm install
+```
+
+第 3 步，启动本地服务
+
+```
+npm run dev
+```
+
 ## 资料更新
 
 - web2 的课程开源，永久免费，但不能商用，你可以分享或者修改传播，但不能用于商业用途
