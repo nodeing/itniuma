@@ -1,7 +1,6 @@
 import nav from './config/nav'
 import sidebar from './config/siderbar'
 export default {
-  appearance: 'black',
   title: '牛马程序员',
   base: '/',
   description:
