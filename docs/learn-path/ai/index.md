@@ -14,6 +14,10 @@
 
 :::
 
+下面是学习笔记总结，有需要可以参考
+
+[重学高等数学](/learn-path/ai/adv-math/chapter1/1.html)
+
 ## 机器学习
 
 :::tip

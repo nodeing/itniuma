@@ -14,6 +14,13 @@ export default {
       }
     ],
     [
+      'link',
+      {
+        rel: 'stylesheet',
+        href: 'https://cdn.bootcdn.net/ajax/libs/KaTeX/0.12.0/katex.min.css'
+      }
+    ],
+    [
       'script',
       {},
       `
@@ -38,6 +45,12 @@ export default {
       message: '我的微信: nodeing-cn',
       copyright:
         "课程内容版权均归 洛邪 版权所有;ICP备案号：<a href='https://beian.miit.gov.cn/#/Integrated/index'>蜀ICP备2022017888号</a>"
+    }
+  },
+  markdown: {
+    config: (md) => {
+      // use more markdown-it plugins!
+      md.use(require('markdown-it-katex'))
     }
   }
 }

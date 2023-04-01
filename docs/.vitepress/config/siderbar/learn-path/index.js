@@ -1,6 +1,9 @@
+import ai from './ai'
 import fe from './fe'
 import go from './go'
+
 export default {
+  ...ai,
   ...fe,
   ...go,
   '/learn-path/': [
