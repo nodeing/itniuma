@@ -54,6 +54,10 @@ React 技术栈
 
 :::
 
+下面是课程的文档
+
+[react 入门](/learn-path/fe/react-rumen/chapter1/1.html)
+
 ## 后端应用
 
 :::tip
