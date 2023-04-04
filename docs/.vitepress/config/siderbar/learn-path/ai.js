@@ -7,6 +7,10 @@ export default {
         {
           text: '1.1.集合',
           link: '/learn-path/ai/adv-math/chapter1/1.html'
+        },
+        {
+          text: '1.2.映射',
+          link: '/learn-path/ai/adv-math/chapter1/2.html'
         }
       ]
     }

@@ -49,7 +49,7 @@ export default {
   },
   markdown: {
     config: (md) => {
-      // use more markdown-it plugins!
+      // use more markdown-it plugins!markdownItLatex
       md.use(require('markdown-it-katex'))
     }
   }
