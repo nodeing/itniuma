@@ -1,11 +1,15 @@
 import ai from './ai'
 import fe from './fe'
 import go from './go'
+import python from './python'
+import java from './java'
 
 export default {
   ...ai,
   ...fe,
   ...go,
+  ...python,
+  ...java,
   '/learn-path/': [
     {
       text: '路线导航',
