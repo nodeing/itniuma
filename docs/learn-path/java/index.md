@@ -106,6 +106,10 @@ Java Web 的课程，推荐黑马最新版《2023 新版 JavaWeb 开发教程》
 
 Java 微服务的课程，推荐黑马的《微服务技术栈》，课程地址：[点击进入](https://www.bilibili.com/video/BV1LQ4y127n4/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
 
+### 项目实战
+
+这个项目的目的是把前面学习的所有知识串联起来，如果时间允许，可以把这个项目做 2-3 遍，课程地址：[点击进入](https://www.bilibili.com/video/BV1j8411N7Bm/?spm_id_from=333.337.search-card.all.click&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
 ## 文档推荐
 
 文档推荐以下四本小册子，每本几十块钱，同一个作者，比较成体系
