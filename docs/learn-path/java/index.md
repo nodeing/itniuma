@@ -1,154 +1,117 @@
-# 零基础如何高效学 Java？
+# IT 千年会员学习路线随便学啦
 
 :::tip
 
-注意：如果你是打算学 Java 或者正在学 Java 的小伙伴，希望你认真看完这篇文章，这可以节约大几千的培训费用和买课的费用
+牛马程序员，Java 学习路线，畅学 1000 年,累计上万课时，时长 10 万分钟
 
 :::
 
-## 自学 Java 1.0 版本
+## 高效学习方法
 
-这个版本的学习方式主要是以视频为主，非常多的人在 B 站上可以找到大量免费的教程，由于 Java 的生态比较好，培训机构深耕多年，资料也是多如牛毛，大部分人入行都是从视频教程开始的，下面，我们来推荐一些视频学习路线
+[Java 高效学习指南](/learn-path/java/1.html)
 
-### 黑马程序员
+## 黑马
 
-这家机构是我们牛马程序员最大的竞争对手，哈哈，但是我们有格局，不会随便诋毁友商，如果你是零基础学 Java，首推他们的学习路线
+[Java 高效学习指南](/learn-path/java/1.html),这里面采用的课程，大部分就是黑马的课程，因此，在这里不再重复列出来
 
-![20230601115227](https://nodeing-com-1252923609.cos.ap-chengdu.myqcloud.com//document20230601115227.png)
+## 尚硅谷
 
-这是他们官网的学习路线，你如果要获取相关的视频，可以去他们的小程序，或者直接在 B 站上学习，下面有地址，但是你先别冲动，后面我会对这些学习路线进行精简，给你一套更合理高效的路线
+尚硅谷，人称 IT 小清华，课程被太多人学习，以至于烂大街，根本学不完
+
+[尚硅谷 Java 零基础全套视频教程(宋红康 2023 版，java 入门自学必备)](https://www.bilibili.com/video/BV1PY411e7J6/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[MySQL 数据库教程天花板，mysql 安装到 mysql 高级，强！硬！](https://www.bilibili.com/video/BV1iq4y1u7vj/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[尚硅谷 JDBC 实战教程（2023 最新版 jdbc，JDK17+MySQL8）](https://www.bilibili.com/video/BV1sK411B71e/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[尚硅谷 JavaWeb 教程(全新技术栈,全程实战)](https://www.bilibili.com/video/BV1AS4y177xJ/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[尚硅谷 Maven 教程（maven 入门+高深，全网无出其右！）](https://www.bilibili.com/video/BV12q4y147e4/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[【尚硅谷】Gradle 教程入门到进阶（从 gradle 安装到项目实战）](https://www.bilibili.com/video/BV1yT41137Y7/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (54 集)
+
+[尚硅谷 2023 新版 Spring 零基础入门到进阶，一套搞定 spring6 全套视频教程（源码级讲解）](https://www.bilibili.com/video/BV1kR4y1b7Qc/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (88 集)
+
+[【尚硅谷】SpringMVC 教程丨一套快速上手 spring mvc](https://www.bilibili.com/video/BV1Ry4y1574R/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (97 集)
+
+[【尚硅谷】MyBatis 零基础入门教程（细致全面，快速上手）](https://www.bilibili.com/video/BV1VP4y1c7j7/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (66 集)
+
+[【尚硅谷】MyBatisPlus 教程（一套玩转 mybatis-plus）](https://www.bilibili.com/video/BV12R4y157Be/) (57 集)
+
+[【尚硅谷】SSM 框架全套教程，MyBatis+Spring+SpringMVC+SSM 整合一套通关](https://www.bilibili.com/video/BV1Ya411S7aT/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (188 集)
+
+[尚硅谷 Redis 零基础到进阶，最强 redis7 教程，阳哥亲自带练（附 redis 面试题）](https://www.bilibili.com/video/BV13R4y1v7sP/) (178 集)
+
+[【尚硅谷】SpringBoot2 零基础入门教程（spring boot2 干货满满）](https://www.bilibili.com/video/BV19K4y1L7MT/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[尚硅谷 SpringCloud 框架开发教程(SpringCloudAlibaba 微服务分布式架构丨 Spring Cloud)](https://www.bilibili.com/video/BV18E411x7eT/)
+
+[尚硅谷新版 Git 快速入门(3h 迅速掌握 git)](https://www.bilibili.com/video/BV1wm4y1z7Dg/?spm_id_from=333.999.0.0&vd_source=a702a01e1) (31 集)
+
+[尚硅谷 Docker 实战教程（docker 教程天花板）](https://www.bilibili.com/video/BV1gr4y1U7CY/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (95 集)
+
+[【尚硅谷】ElasticSearch 教程入门到精通（基于 ELK 技术栈 elasticsearch 7.x+8.x 新特性）](https://www.bilibili.com/video/BV1hh411D7sb/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (103 集)
+
+[【尚硅谷】大数据技术之 Zookeeper 3.5.7 版本教程](https://www.bilibili.com/video/BV1to4y1C7gw/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (46 集)
+
+[尚硅谷 Nginx 教程（亿级流量 nginx 架构设计）](https://www.bilibili.com/video/BV1yS4y1N76R/) (142 集)
+
+[尚硅谷 SpringSecurity 框架教程（spring security 源码剖析从入门到精通）](https://www.bilibili.com/video/BV15a411A7kP/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[尚硅谷 ActiveMQ 教程(MQ 消息中间件快速入门)](https://www.bilibili.com/video/BV164411G7aB/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[【尚硅谷】RocketMQ 教程丨深度掌握 MQ 消息中间件](https://www.bilibili.com/video/BV1cf4y157sz/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (104 集)
+
+[【尚硅谷】Kubernetes（k8s）入门到实战教程丨全新升级完整版](https://www.bilibili.com/video/BV1GT4y1A756/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (64 集)
+
+[尚硅谷 Java 项目实战《尚上优选》企业级 Java 项目](https://www.bilibili.com/video/BV19M4y1q7Lt/?spm_id_from=333.337.search-card.all.click&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
+
+[更多内容](https://www.bilibili.com/read/cv5216534)
+
+## 千峰
+
+学习路线汇总:[点击进入](https://www.bilibili.com/read/cv17419614)
+
+## 韩顺平
 
 :::tip
-路线地址：[https://www.bilibili.com/read/cv9965357](https://www.bilibili.com/read/cv9965357)
+国内 Java 讲师天花板，如果零基础小白，可以考虑学这套课程
 :::
 
-### 尚硅谷
+[【零基础 快速学 Java】韩顺平 零基础 30 天学会 Java](https://www.bilibili.com/video/BV1fh411y7R8/?spm_id_from=333.337.search-card.all.click&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (910 集)
 
-这家机构也是大名鼎鼎的，和黑马是第一梯队的，其实他们的老板早期都是有渊源的，教学质量其实都差不多
+后续课程是收费的，如果学了基础觉得课程可以，可以联系韩老师付费
 
-![20230601115839](https://nodeing-com-1252923609.cos.ap-chengdu.myqcloud.com//document20230601115839.png)
+## 达内
 
-### 其他
+[Java SE 全新上线，全套 JAVA 学习资料](https://www.bilibili.com/video/BV1TL41167hT/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (200 集)
 
-其他还有非常多优质的课程，例如：千峰、马士兵、韩顺平等等，这里我们就不一一列出来了
+[零基础 Java 学习视频教程 819 集\_从入门到精通(小白也能学会)](https://www.bilibili.com/video/BV1RV41147yJ/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (819 集)
 
-### 总结
+## 尚学堂
 
-自学 Java 1.0 版本，你可以找到非常多的视频来学习，但是，在我看来是效率非常低下的一种方式，缺点有以下几方面：
+[全新 Java0 基础全套教程\_阶段一](https://www.bilibili.com/video/BV17P411U73w/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (197 集)
 
-```
+[全新 Java0 基础全套教程\_阶段二](https://www.bilibili.com/video/BV1Ua4y137mC/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (196 集)
 
-1.内容太多，视频讲解太冗余，基础阶段录的视频就上1000课时，初学者根本坚持不下来
+[全新 Java0 基础全套教程\_阶段三](https://www.bilibili.com/video/BV1NM41137Yi/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (197 集)
 
-2.由于讲解太详细啰嗦，属于嚼碎了来喂，导致很多自学者对视频产生依赖，就算是把机构的视频看完，
-也无法独立写代码
+[2023 全新 Java 入门到精通全套教程\_阶段四](https://www.bilibili.com/video/BV1bV4y1r73j/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (141 集)
 
-3.初学者会被带偏，经常会进入一种一看就会一写就废的状态，坚持不下来，迷茫、焦虑，最后就去报班，
-这就是机构免费课程的套路
+[2023 全新 Java 入门到精通全套教程\_阶段五](https://www.bilibili.com/video/BV1VM4y1t7Za/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (200 集)
 
-```
+[2023 全新 Java 入门到精通全套教程\_阶段六](https://www.bilibili.com/video/BV1Vo4y1w7vJ/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (198 集)
 
-以上这些缺点最致命的是对会让初学者对视频产生依赖，即时学完视频也没卵用，白白浪费时间，为了解决上面说的这些痛点，我们需要将学习方法升级到 2.0 版本
+[2023 全新 Java 入门到精通全套教程\_阶段七 Java 框架部分](https://www.bilibili.com/video/BV1vV4y1r75R/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (112 集)
 
-## 自学 Java 2.0 版本
+中间可能缺微服务基础，学了微服务基础后开始下面项目
 
-经过我们大量的教学实践，认为一个零基础到真正学会编程，至少要经过 3 个阶段
+[用 Java 做出百战商城实战项目\_百战商城 2.0 升级版](https://www.bilibili.com/video/BV1JP411m7W2/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4) (153 集)
 
-```
-第1阶段：零基础入门
-
-第2阶段：半独立写代码
-
-第3阶段：完全独立写代码
-```
-
-在第 1 阶段，还是零基础的时候，看视频学习是比较高效的，在这个阶段视频的效率是高于书籍的，因为学技术会有非常多的专业名词和操作演示，对零基础的同学来说，去理解那些专业名词是比较困难的，还有就是一些操作，例如：安装 Java 的环境，配置环境变量这些，很多零基础的同学操作起来都会遇到坑，如果仅仅是看书，效率非常低下
-
-在第 2 阶段的时候，就要慢慢脱离视频了，防止对视频形成依赖，这个时候学习比较高效的方式就是文档为主，视频为辅，看文档属于主动学习知识，看视频是被动接收知识，看文档有个思考的过程，看视频思考的时间更少，因此，在这个阶段，需要形成看文档学习的习惯
-
-在第 3 个阶段的时候，就是独立做项目了，需要找一些需求、产品文档来自己练习，独立写代码
-
-经过以上的三个阶段，你就能从一个零基础小白，变成编程开发者了，这就是我们说的自学 Java 2.0 版本需要经历的，但是，这 3 个阶段并不是每个人都能走完的，即使走完也是非常辛苦的，因为这里还漏掉了一个最大的问题，学习的过程中，需要有人及时的提供一对一的答疑，不然一个问题卡住了，几天都搞不定，学习的积极性被打击了，就很难坚持，这是自学 Java 2.0 版本的不足
-
-## 自学 Java 3.0 版
-
-自学 Java 最大的难点其实不是没有好的课程，最大的难点应该是没有及时的答疑，基于这个痛点，我曾经提供了一对一的答疑服务，一年的费用是大几千，其实服务一年，这个价格已经是白菜价了，因为我要付出很多时间和精力，对于用户来说，大几千好像又有点贵了，有没有一个好的解决方案呢？那就是 ChatGPT，因此，我们自学 Java 的高效方法，升级到了 3.0 版本
+## 声明
 
 :::tip
 
-第 1 阶段：免费的视频教程，这个后续我会推荐合适的
-
-第 2 阶段：付费文档，成本 200 左右
-
-第 3 阶段：独立实战，这个不用花钱，我会推荐一个网站
-
-答疑：使用 ChatGPT，免费和付费方案都有
+以上学习路线均为各大机构公开在 B 站的免费教程，我们仅仅是整理一下，作为学习导航，版权归机构所有
 
 :::
-
-总结一下，目前来说，自学 Java 最好的方式就是
-
-```
-视频 + 文档 + 产品原型(独立实战) + ChatGPT答疑
-```
-
-## 视频课程推荐
-
-### Java 基础
-
-基础课程，推荐黑马最新版《一套超哇塞的 Java 教程》，课程地址：[点击进入](https://www.bilibili.com/video/BV1Fv4y1q7ZH/?spm_id_from=333.337.search-card.all.click&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
-
-### Java Web
-
-Java Web 的课程，推荐黑马最新版《2023 新版 JavaWeb 开发教程》，课程地址：[点击进入](https://www.bilibili.com/video/BV1m84y1w7Tb/?spm_id_from=333.999.0.0&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
-
-### Java 微服务
-
-Java 微服务的课程，推荐黑马的《微服务技术栈》，课程地址：[点击进入](https://www.bilibili.com/video/BV1LQ4y127n4/?vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
-
-### 项目实战
-
-这个项目的目的是把前面学习的所有知识串联起来，如果时间允许，可以把这个项目做 2-3 遍，课程地址：[点击进入](https://www.bilibili.com/video/BV1j8411N7Bm/?spm_id_from=333.337.search-card.all.click&vd_source=2c3a67cfc8e92f415cf44e285a10c5d4)
-
-## 文档推荐
-
-文档推荐以下四本小册子，每本几十块钱，同一个作者，比较成体系
-
-第 1 本，《Vue3 企业级项目实战》，这是一个前后端分离的商城项目，完成的是管理后台的界面和接口的开发，下面是课程海报
-
-![](./img/2023-06-01-19-23-46.png)
-
-扫下面二维码购买
-
-![](./img/2023-06-01-19-24-53.png)
-
-第 2 本，《Vue 3 +Spring Boot 大型前后端分离项目实战》，这本小册主要完成商城的前台部分，下面课程海报
-![](./img/2023-06-01-19-42-52.png)
-
-扫下面二维码购买
-![](./img/2023-06-01-19-44-05.png)
-
-第 3 本，《Spring Cloud Alibaba 大型微服务项目实战》，这本小册主要讲微服务实战，下面是课程海报
-
-![](./img/2023-06-01-19-29-38.png)
-
-下面扫码购买
-
-![](./img/2023-06-01-19-33-00.png)
-
-## 产品原型推荐
-
-这个阶段即没有文档，也没有视频，完全需要你独立开发，推荐你去 axure 商城，[https://www.axureshop.com/](https://www.axureshop.com/),这个商城里面，有非常多的产品原型图，举个例子：
-![20230601190656](https://nodeing-com-1252923609.cos.ap-chengdu.myqcloud.com//document20230601190656.png)
-
-这个在线客服系统，就非常适合拿来练手，产品的需求文档已经很详细，你根据这些需求，独立完成相关的功能，这种项目多练几个，你的能力完胜培训班的学生
-
-:::tip
-注意：你不需要去购买这些原型，直接在购买页面点击在线预览即可，例如：[https://www.axureshop.com/ys/1405457](https://www.axureshop.com/ys/1405457)
-:::
-
-## ChatGPT 推荐
-
-方式 1，ChatGPT 官方免费计划，需要通过魔法注册
-
-方式 2，使用第三方稳定服务，这是通过 API 代理出去的，使用的是官网的大模型，支持 3.5、4 等多个版本的切换，属于付费服务，需要买个 key，很便宜，几块钱就可以上手，地址：[点击进入](https://chat.nodeing.top)
