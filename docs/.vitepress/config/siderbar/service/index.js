@@ -5,6 +5,10 @@ export default {
       collapsible: false,
       items: [
         {
+          text: '知识星球',
+          link: '/service/xingqiu/'
+        },
+        {
           text: '答疑老师',
           link: '/service/teacher/'
         },
