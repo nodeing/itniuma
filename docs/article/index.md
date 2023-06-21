@@ -1,5 +1,11 @@
 # 文章归档
 
+:::tip
+
+广告：《JS 全栈+AI 应用+Web3 方向》就业陪跑，一对一答疑，咨询微信：nodeing_cn
+
+:::
+
 ## 置顶
 
 [牛马程序员如何写一份亮瞎眼的简历？](/article/mianshi/index.html)
