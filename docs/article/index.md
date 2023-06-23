@@ -12,6 +12,8 @@
 
 ## 2023.06
 
+[Git 高效入门指南](/learn-path/fe/git-github/chapter1/1.html)
+
 [一键打包桌面程序](/article/2023.06/7.html)
 
 [程序员接单大全](/article/2023.06/6.html)
