@@ -92,12 +92,12 @@ export default {
       ]
     }
   ],
-  '/article/': [
+  '/article/ai/': [
     {
-      text: '文章归档',
+      text: '系统学习',
       items: [
         // This shows `/guide/index.md` page.
-        { text: '文章目录', link: '/article/' }
+        // { text: '文章目录', link: '/article/' }
       ]
     }
   ]

@@ -4,7 +4,7 @@ export default {
   ...article,
   '/article/': [
     {
-      text: '文章',
+      text: '导航',
       items: [
         // This shows `/guide/index.md` page.
         { text: '文章归档', link: '/article/' },

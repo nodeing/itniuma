@@ -87,7 +87,7 @@ export default {
           link: '/learn-path/fe/git-github/chapter4/1.html'
         },
         {
-          text: '4.2.分之和github工作流',
+          text: '4.2.分支管理相关操作',
           link: '/learn-path/fe/git-github/chapter4/2.html'
         }
       ]
