@@ -2,7 +2,7 @@
 FROM node:lts-alpine as build-stage
 
 # 设置工作目录
-WORKDIR /app
+WORKDIR /docs
 
 # 复制项目的package.json和package-lock.json
 COPY package*.json ./
@@ -20,7 +20,7 @@ RUN npm run build
 FROM nginx:stable-alpine as production-stage
 
 # 将构建好的项目文件复制到nginx的html目录下
-COPY --from=build-stage /app/.vitepress/dist /usr/share/nginx/html
+COPY --from=build-stage /docs/.vitepress/dist /usr/share/nginx/html
 
 # 对外暴露80端口
 EXPOSE 80
