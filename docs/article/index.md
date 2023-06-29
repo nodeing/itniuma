@@ -12,6 +12,8 @@
 
 ## 2023.06
 
+[【文章】Web3 招聘平台收集](/article/2023.06/9.html)
+
 [【合集】Git 高效入门指南](/learn-path/fe/git-github/chapter1/1.html)
 
 [【文章】一键打包桌面程序](/article/2023.06/7.html)

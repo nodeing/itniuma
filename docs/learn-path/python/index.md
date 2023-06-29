@@ -32,10 +32,6 @@
 
 :::
 
-下面是详细课程文档：
-
-[Python 基础快速入门](/learn-path/python/basic/chapter1/1.html)
-
 ## Python 进阶
 
 :::tip
