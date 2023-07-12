@@ -5,7 +5,7 @@ export default {
       items: [
         {
           text: '更新进度',
-          link: 'https://edu.nodeing.com'
+          link: 'https://nodeing.com/path'
         },
         {
           text: 'TS全栈开发',
