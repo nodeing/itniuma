@@ -45,7 +45,7 @@ export default {
     footer: {
       message: '我的微信: nodeing-cn',
       copyright:
-        "课程内容版权均归 洛邪 版权所有;ICP备案号：<a href='https://beian.miit.gov.cn/#/Integrated/index'>蜀ICP备2022017888号</a>"
+        "课程内容版权均归 洛邪 版权所有;ICP备案号：<a href='https://beian.miit.gov.cn/#/Integrated/index'>蜀ICP备2022017859号-2</a>"
     }
   },
   markdown: {
