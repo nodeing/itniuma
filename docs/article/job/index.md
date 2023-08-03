@@ -30,6 +30,12 @@ Talentverse 是一家专注于 Web3 及 AI 等新兴领域的人才招聘平台�
 
 ## 英语
 
+### dejob
+
+DeJob 是一个专注于 Web3 的公益性质招聘求职平台
+
+地址：[https://www.dejob.top/talent](https://www.dejob.top/talent)
+
 ### Cryptocurrency Jobs
 
 领先的区块链工作和加密货币工作招聘网站
