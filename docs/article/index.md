@@ -8,6 +8,8 @@
 
 ## 置顶
 
+[【文章】远程工作招聘平台收集(长期更新)](/article/job/index.html)
+
 [【文章】牛马程序员如何写一份亮瞎眼的简历？](/article/interview/index.md)
 
 ## 2023.08
