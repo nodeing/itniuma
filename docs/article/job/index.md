@@ -139,3 +139,7 @@ Jobspresso 有大量技术、营销和其他领域的工作机会
 这个平台可以选择和其他人交换学习语言，[点击进入](https://language.exchange/language/EN-%E8%8B%B1%E8%AF%AD/#)
 
 ![20230803201040](https://cdn.jsdelivr.net/gh/nodeing/img-host/20230803201040.png)
+
+### 一对一瞎聊
+
+网址：[https://www.free4talk.com/](https://www.free4talk.com/)
