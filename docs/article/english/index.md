@@ -37,3 +37,9 @@
 [【挑战 100 天重学英语】英语语法学习笔记(2)--动词分类和时态](/article/english/2.html)
 
 [英语“不规则”动词“规律”](/article/english/2.1.html)
+
+> 第 3 天
+
+完结：[【挑战 100 天重学英语】英语语法学习笔记(2)--动词分类和时态](/article/english/2.html)
+
+[学习英语的难点总结](/article/engliish/2.2.html)
