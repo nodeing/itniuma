@@ -49,7 +49,7 @@ https://bokexuecheng.yuque.com/org-wiki-bokexuecheng-yqq9tl/hhq8qm/ftt64oxuqt40u
 - 性别：男
 - 手机号：19822849988
 - 邮箱：cnode@888.com
-- 博客：https://niuma.top
+- 博客：https://itniuma.com
 - github: https://github.com/xxx
 
 ### 教育经历
