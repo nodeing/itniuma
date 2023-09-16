@@ -1,0 +1,70 @@
+import{_ as s,c as a,o as n,a as e}from"./app.4a51e320.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[{"level":2,"title":"ESLint + Prettier + VSCode \u73AF\u5883\u642D\u5EFA","slug":"eslint-prettier-vscode-\u73AF\u5883\u642D\u5EFA","link":"#eslint-prettier-vscode-\u73AF\u5883\u642D\u5EFA","children":[]},{"level":2,"title":"\u521B\u5EFA\u65B0\u9879\u76EE","slug":"\u521B\u5EFA\u65B0\u9879\u76EE","link":"#\u521B\u5EFA\u65B0\u9879\u76EE","children":[]}],"relativePath":"article/2023.09/2.md"}'),l={name:"article/2023.09/2.md"},p=e(`<h2 id="eslint-prettier-vscode-\u73AF\u5883\u642D\u5EFA" tabindex="-1">ESLint + Prettier + VSCode \u73AF\u5883\u642D\u5EFA <a class="header-anchor" href="#eslint-prettier-vscode-\u73AF\u5883\u642D\u5EFA" aria-hidden="true">#</a></h2><h2 id="\u521B\u5EFA\u65B0\u9879\u76EE" tabindex="-1">\u521B\u5EFA\u65B0\u9879\u76EE <a class="header-anchor" href="#\u521B\u5EFA\u65B0\u9879\u76EE" aria-hidden="true">#</a></h2><p>\u7B2C 1 \u6B65\uFF0C\u5148\u68C0\u67E5\u4F60\u7684\u7535\u8111 vue-cli \u7248\u672C\uFF0C\u786E\u4FDD\u662F\u6700\u65B0\u7248</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">vue -V</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u5F53\u524D\u6211\u4F7F\u7528\u7684\u7248\u672C\u662F <code>@vue/cli 5.0.8</code>,\u5982\u679C\u8FD9\u4E2A\u6CA1\u6709\u88C5\u4E0A\uFF0C\u81EA\u884C\u53BB\u5B98\u7F51\u67E5\u770B\u5B89\u88C5\u547D\u4EE4</p><p>\u7B2C 2 \u6B65\uFF0C\u521B\u5EFA\u9879\u76EE</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">vue create vue2-template</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u7B2C 3 \u6B65\uFF0C\u9009\u62E9\u521B\u5EFA\u6A21\u7248</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">Vue CLI v5.0.8</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Please pick a preset:</span></span>
+<span class="line"><span style="color:#A6ACCD;">  vue3-template ([Vue 3] babel, router, vuex, eslint)</span></span>
+<span class="line"><span style="color:#A6ACCD;">  Default ([Vue 3] babel, eslint)</span></span>
+<span class="line"><span style="color:#A6ACCD;">  Default ([Vue 2] babel, eslint)</span></span>
+<span class="line"><span style="color:#A6ACCD;">\u276F Manually select features</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u8FD9\u6B65\u6211\u4EEC\u9009\u62E9<code>Manually select features</code> \u81EA\u5DF1\u53BB\u5B9A\u4E49\u5B89\u88C5\u914D\u7F6E\u9879</p><p>\u7B2C 3 \u6B65\uFF0C\u9009\u62E9\u5B89\u88C5\u5404\u79CD\u5DE5\u5177</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">Vue CLI v5.0.8</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Please pick a preset: Manually select features</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Check the features needed for your project: (Press &lt;space&gt; to select, &lt;a&gt; to</span></span>
+<span class="line"><span style="color:#A6ACCD;">toggle all, &lt;i&gt; to invert selection, and &lt;enter&gt; to proceed)</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25C9 Babel</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25EF TypeScript</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25EF Progressive Web App (PWA) Support</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25C9 Router</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25C9 Vuex</span></span>
+<span class="line"><span style="color:#A6ACCD;">\u276F\u25C9 CSS Pre-processors</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25C9 Linter / Formatter</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25EF Unit Testing</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25EF E2E Testing</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u6211\u4EEC\u8FD9\u91CC\u4E00\u6B21\u6027\u628A<code>Babel</code>\u3001<code>Vuex</code>\u3001<code>CSS Pre-processors</code>\u3001<code>Linter/Formater</code>\u90FD\u9009\u4E0A\uFF0C\u5176\u4E2D<code>Babel</code>\u662F\u7528\u6765\u505A\u7F16\u8BD1\u8F6C\u5316 JS \u4EE3\u7801\u7684\uFF0C\u4F8B\u5982\uFF1A\u628A ES6 \u7684\u4E00\u4E9B\u65B0\u7279\u6027\uFF0C\u8F6C\u6210\u6D4F\u89C8\u5668\u517C\u5BB9\u7684 ES5 \u4EE3\u7801\uFF0C<code>CSS Pre-processors</code>\u8FD9\u91CC\u53EF\u4EE5\u9009\u62E9<code>less</code>\u6216\u8005<code>sass</code>\u6765\u8F85\u52A9\u5F00\u53D1\uFF0C\u5982\u679C\u8FD9\u4E24\u4E2A\u4E0D\u6E05\u695A\u662F\u5565\uFF0C\u9700\u8981\u5148\u4E86\u89E3\uFF0C\u4E5F\u53EF\u4EE5\u5148\u8DF3\u8FC7\uFF0C\u4F60\u53EA\u9700\u8981\u638C\u63E1\u6781\u5C11\u6570\u7684\u89C4\u5219\uFF0C\u4F8B\u5982\uFF0C\u5D4C\u5957\u5199 css \u5373\u53EF\uFF0C<code>Linter / Formatter</code> \u8FD9\u4E2A\u662F\u4EE3\u7801\u68C0\u67E5\u548C\u683C\u5F0F\u5316\u5DE5\u5177\uFF0C\u8FD9\u4E9B\u9009\u9879\u5230\u540E\u9762\u90FD\u4F1A\u5177\u4F53\u7684\u6765\u9009\u62E9\uFF0C\u9009\u62E9\u597D\u4EE5\u540E\uFF0C\u6309\u56DE\u8F66\u786E\u8BA4</p><p>\u7B2C 4 \u6B65\uFF0C\u9009\u62E9 Vue \u7684\u7248\u672C\uFF0C\u6211\u4EEC\u8FD9\u91CC\u9009\u62E9 2.x \u7248\u672C</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">Vue CLI v5.0.8</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Please pick a preset: Manually select features</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Check the features needed for your project: Babel, Router, Vuex, CSS</span></span>
+<span class="line"><span style="color:#A6ACCD;">Pre-processors, Linter</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Choose a version of Vue.js that you want to start the project with</span></span>
+<span class="line"><span style="color:#A6ACCD;">  3.x</span></span>
+<span class="line"><span style="color:#A6ACCD;">\u276F 2.x</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u7B2C 5 \u6B65\uFF0C\u9009\u62E9\u8DEF\u7531\u6A21\u5F0F\uFF0C\u53EF\u4EE5\u662F hash\uFF0C\u53EF\u4EE5\u662F history</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">\u279C  debug vue create vue2-template</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;">Vue CLI v5.0.8</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Please pick a preset: Manually select features</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Check the features needed for your project: Babel, Router, Vuex, CSS</span></span>
+<span class="line"><span style="color:#A6ACCD;">Pre-processors, Linter</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Choose a version of Vue.js that you want to start the project with 2.x</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Use history mode for router? (Requires proper server setup for index fallback</span></span>
+<span class="line"><span style="color:#A6ACCD;">in production) (Y/n)Y</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u6211\u4EEC\u9009\u62E9 Y\uFF0C\u4F7F\u7528 history \u6A21\u5F0F</p><p>\u7B2C 6 \u6B65\uFF0C\u9009\u62E9 CSS \u9884\u5904\u7406\u5668\uFF0C\u4E5F\u5C31\u662F\u524D\u9762\u6211\u4EEC\u8BF4\u7684 less \u6216\u8005 sass\uFF0C\u6211\u4EEC\u8FD9\u91CC\u9009\u62E9 less</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">? Pick a CSS pre-processor (PostCSS, Autoprefixer and CSS Modules are supported</span></span>
+<span class="line"><span style="color:#A6ACCD;">by default):</span></span>
+<span class="line"><span style="color:#A6ACCD;">  Sass/SCSS (with dart-sass)</span></span>
+<span class="line"><span style="color:#A6ACCD;">\u276F Less</span></span>
+<span class="line"><span style="color:#A6ACCD;">  Stylus</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u7B2C 7 \u6B65\uFF0C\u9009\u62E9\u683C\u5F0F\u5316\u5DE5\u5177\uFF0C\u6211\u4EEC\u8FD9\u91CC\u9009\u62E9 ESLint + Prettier</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">? Pick a CSS pre-processor (PostCSS, Autoprefixer and CSS Modules are supported</span></span>
+<span class="line"><span style="color:#A6ACCD;">by default): Less</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Pick a linter / formatter config:</span></span>
+<span class="line"><span style="color:#A6ACCD;">  ESLint with error prevention only</span></span>
+<span class="line"><span style="color:#A6ACCD;">  ESLint + Airbnb config</span></span>
+<span class="line"><span style="color:#A6ACCD;">  ESLint + Standard config</span></span>
+<span class="line"><span style="color:#A6ACCD;">\u276F ESLint + Prettier</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u683C\u5F0F\u5316\u5DE5\u5177\u90FD\u662F\u5927\u540C\u5C0F\u5F02\u7684\uFF0C\u9075\u5FAA\u7684\u89C4\u8303\u4E0D\u4E00\u6837\u800C\u5DF2\uFF0C\u4F60\u4E5F\u53EF\u4EE5\u9009\u62E9\u5176\u4ED6\u7684\uFF0C\u4F46\u662F\u4E3A\u4E86\u548C\u6211\u4EEC\u8BFE\u7A0B\u540C\u6B65\uFF0C\u5EFA\u8BAE\u4F60\u9009\u62E9\u548C\u6211\u4E00\u6837\u7684\u89C4\u8303</p><p>\u7B2C 8 \u6B65\uFF0C\u9009\u62E9\u4EE3\u7801\u68C0\u67E5\u7684\u65F6\u673A\uFF0C\u6211\u4EEC\u9009\u62E9\u4FDD\u5B58\u5C31\u4EE3\u7801\u68C0\u67E5</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">? Pick additional lint features: (Press &lt;space&gt; to select, &lt;a&gt; to toggle all,</span></span>
+<span class="line"><span style="color:#A6ACCD;">&lt;i&gt; to invert selection, and &lt;enter&gt; to proceed)</span></span>
+<span class="line"><span style="color:#A6ACCD;">\u276F\u25C9 Lint on save</span></span>
+<span class="line"><span style="color:#A6ACCD;"> \u25EF Lint and fix on commit</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u7B2C 9 \u6B65\uFF0C\u9009\u62E9\u914D\u7F6E\u6587\u4EF6\u4FDD\u5B58\u4F4D\u7F6E</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">? Pick additional lint features: Lint on save</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Where do you prefer placing config for Babel, ESLint, etc.? (Use arrow keys)</span></span>
+<span class="line"><span style="color:#A6ACCD;">\u276F In dedicated config files</span></span>
+<span class="line"><span style="color:#A6ACCD;">  In package.json</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u8FD9\u4E00\u6B65\u6211\u4EEC\u9009\u62E9\u628A\u914D\u7F6E\u653E\u5230\u5404\u81EA\u7684\u914D\u7F6E\u6587\u4EF6\u4E2D\uFF0C\u800C\u4E0D\u662F\u653E\u5230 package.json \u4E2D</p><p>\u7B2C 10 \u6B65\uFF0C\u95EE\u4F60\u662F\u5426\u628A\u4E0A\u9762\u7684\u9009\u62E9\u4FDD\u5B58\u8D77\u6765\uFF0C\u4E0B\u6B21\u521B\u5EFA\u9879\u76EE\u7684\u65F6\u5019\u5C31\u76F4\u63A5\u4F7F\u7528\u4E0A\u9762\u9009\u62E9\u7684\u914D\u7F6E\uFF0C\u6211\u4EEC\u9009\u62E9 Yes,\u7136\u540E\u81EA\u5DF1\u5B9A\u4E49\u4E00\u4E2A\u914D\u7F6E\u540D\u79F0\u5373\u53EF</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">? Where do you prefer placing config for Babel, ESLint, etc.? In dedicated</span></span>
+<span class="line"><span style="color:#A6ACCD;">config files</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Save this as a preset for future projects? (y/N)</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">? Save this as a preset for future projects? Yes</span></span>
+<span class="line"><span style="color:#A6ACCD;">? Save preset as: vue2-template</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u7B2C 11 \u6B65\uFF0C\u542F\u52A8\u8FD0\u884C\u9879\u76EE</p><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki"><code><span class="line"><span style="color:#A6ACCD;">cd vue2-template</span></span>
+<span class="line"><span style="color:#A6ACCD;">npm run serve</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p>\u8BBF\u95EE <code>http://localhost:8080/</code> \u5373\u53EF</p>`,34),o=[p];function t(c,r,i,C,A,d){return n(),a("div",null,o)}const D=s(l,[["render",t]]);export{u as __pageData,D as default};
