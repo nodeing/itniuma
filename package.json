@@ -18,8 +18,5 @@
     "vitepress": "1.0.0-alpha.28",
     "vue-router": "^4.1.6",
     "vuex": "^4.1.0"
-  },
-  "engines": {
-    "node": ">=^14.17.6"
   }
 }
