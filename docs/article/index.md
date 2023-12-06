@@ -12,6 +12,10 @@
 
 [【文章】牛马程序员如何写一份亮瞎眼的简历？](/article/interview/index.md)
 
+## 2023.12
+
+[【转载】【李笑来开源文章】人人都能用英语](/article/2023.12/everyone-can-use-english/README.md)
+
 ## 2023.10
 
 <!-- [【文章】 推荐一款跨平台好用的终端工具 ](/article/2023.10/1.html) -->

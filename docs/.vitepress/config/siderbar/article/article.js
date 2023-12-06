@@ -100,5 +100,53 @@ export default {
         // { text: '文章目录', link: '/article/' }
       ]
     }
+  ],
+  '/article/2023.12/everyone-can-use-english/': [
+    {
+      text: '目录',
+      collapsible: true,
+      items: [
+        {
+          text: '前言',
+          link: '/article/2023.12/everyone-can-use-english/README.html'
+        },
+        {
+          text: '1.起点',
+          link: '/article/2023.12/everyone-can-use-english/chapter1.html'
+        },
+        {
+          text: '2.口语',
+          link: '/article/2023.12/everyone-can-use-english/chapter2.html'
+        },
+        {
+          text: '3.语音',
+          link: '/article/2023.12/everyone-can-use-english/chapter3.html'
+        },
+        {
+          text: '4.朗读',
+          link: '/article/2023.12/everyone-can-use-english/chapter4.html'
+        },
+        {
+          text: '5.词典',
+          link: '/article/2023.12/everyone-can-use-english/chapter5.html'
+        },
+        {
+          text: '6.语法',
+          link: '/article/2023.12/everyone-can-use-english/chapter6.html'
+        },
+        {
+          text: '7.精读',
+          link: '/article/2023.12/everyone-can-use-english/chapter7.html'
+        },
+        {
+          text: '8.叮嘱',
+          link: '/article/2023.12/everyone-can-use-english/chapter8.html'
+        },
+        {
+          text: '后记',
+          link: '/article/2023.12/everyone-can-use-english/end.html'
+        }
+      ]
+    }
   ]
 }
