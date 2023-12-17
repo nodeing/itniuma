@@ -3,6 +3,7 @@ export default [
   { text: '免费路线', link: '/learn-path/' },
   { text: '体系课程', link: '/course/system/ts/' },
   { text: '实训平台', link: '/course/train/' },
+  { text: '接单平台', link: '/article/crowdsourcing/' },
   { text: '文章', link: '/article/' },
   { text: '关于', link: '/article/about/' }
 ]
