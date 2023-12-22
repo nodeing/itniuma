@@ -18,6 +18,6 @@
 
 [牛马众包平台发起说明](/article/crowdsourcing/index.html)
 
-[《牛马众包平台的发展规划》](/article/crowdsourcing/plan.html)
+[牛马众包平台的发展规划](/article/crowdsourcing/plan.html)
 
 [牛马众包平台加入要求说明](/article/crowdsourcing/condition.html)

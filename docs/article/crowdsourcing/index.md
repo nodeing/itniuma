@@ -141,7 +141,7 @@
 
 ## 继续阅读
 
-[《牛马众包平台的发展规划》](/article/crowdsourcing/plan.html)
+[牛马众包平台的发展规划](/article/crowdsourcing/plan.html)
 
 [百万收益副业经历分享](/article/crowdsourcing/experience.html)
 

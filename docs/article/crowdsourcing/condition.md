@@ -22,10 +22,20 @@
 
 再次提醒一下，急功近利者，不愿意同平台一起成长者，还是不要加入了，慎重，再慎重
 
+## 如何加入
+
+如果你认同我们讲的这些内容，联系微信，缴纳服务费
+
+:::
+微信： nodeing-cn
+:::
+
+服务费缴纳后，我这边会先给你备注，接下来，上线一个简历管理平台，您先填写简历，后续会出现在答疑接单列表中，关于软件接单模块，需要你手动提交报名，并且给报价，我这边去跟客户谈，客户搞定后，再联系你对接后续需求的事情
+
 ## 相关阅读
 
 [牛马众包平台发起说明](/article/crowdsourcing/index.html)
 
-[《牛马众包平台的发展规划》](/article/crowdsourcing/plan.html)
+[牛马众包平台的发展规划](/article/crowdsourcing/plan.html)
 
 [百万收益副业经历分享](/article/crowdsourcing/experience.html)
