@@ -1,0 +1,8 @@
+import{_ as a,c as s,o as n,V as e}from"./chunks/framework.AW5yxxpt.js";const m=JSON.parse('{"title":"高等数学笔记","description":"","frontmatter":{},"headers":[],"relativePath":"article/math/gaoshu/index_冲突文件_root_20240121125108.md","filePath":"article/math/gaoshu/index_冲突文件_root_20240121125108.md"}'),t={name:"article/math/gaoshu/index_冲突文件_root_20240121125108.md"},p=e(`<h1 id="高等数学笔记" tabindex="-1">高等数学笔记 <a class="header-anchor" href="#高等数学笔记" aria-label="Permalink to &quot;高等数学笔记&quot;">​</a></h1><p>高等数学的主要内容</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span></span></span>
+<span class="line"><span>1.将对函数变量的研究扩展到无穷状态</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>2.怎么做微观局部分析</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>3.怎么进行函数逼近</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>4.如何用微分方程解决实际问题</span></span></code></pre></div><p>微积分的基本思想</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>以直代曲，线性近似</span></span></code></pre></div><h2 id="文章目录" tabindex="-1">文章目录 <a class="header-anchor" href="#文章目录" aria-label="Permalink to &quot;文章目录&quot;">​</a></h2><p><a href="/article/math/gaoshu/1.html">1.集合、映射、函数</a></p>`,7),i=[p];function o(l,c,r,_,h,d){return n(),s("div",null,i)}const g=a(t,[["render",o]]);export{m as __pageData,g as default};
