@@ -1,10 +1,5 @@
-.VPImage.logo{
-  border-radius: 2px!important;
-}
 
-
-
-.vp-doc [class*='language-'] code{
+.vp-doc [class*='language-'] code {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
@@ -32,3 +27,26 @@
 }
 
 
+
+
+:root {
+  --vp-c-brand-1: #42b883;
+  --vp-c-brand-2: #090c0b;
+  --vp-button-brand-bg: #225448;
+  --vp-custom-block-tip-bg:#225448;
+  --vp-custom-block-tip-text: #fff;
+  --vp-custom-block-danger-bg: #e61e4c;
+  --vp-custom-block-danger-text: #fff;
+}
+
+.vp-doc a:hover{
+  color: #225448;
+}
+
+.VPNav .VPImage.logo{
+  border-radius: 4px;
+}
+.language- .github-light.vp-code {
+  background-color: black!important;
+  .line{color: white;}
+}

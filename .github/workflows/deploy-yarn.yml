@@ -12,18 +12,18 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - uses: pnpm/action-setup@v2.0.1
+      - uses: actions/setup-node@v3
         with:
-          version: 7.0.0 # 使用你想要的 pnpm 版本
-          cache: true
-      - run: pnpm install --frozen-lockfile
+          node-version: 16
+          cache: yarn
+      - run: yarn install --frozen-lockfile
 
       - name: Build
-        run: pnpm run build
+        run: yarn build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/.vitepress/dist
-          # cname: example.com # if you want to deploy to a custom domain
+          # cname: example.com # if wanna deploy to custom domain
