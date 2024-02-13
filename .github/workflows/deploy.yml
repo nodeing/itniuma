@@ -14,7 +14,7 @@ jobs:
           fetch-depth: 0
       - uses: pnpm/action-setup@v2.0.1
         with:
-          version: 7.0.0 # 使用你想要的 pnpm 版本
+          version: 8.14.1 # 使用你想要的 pnpm 版本
           cache: true
       - run: pnpm install --frozen-lockfile
 
