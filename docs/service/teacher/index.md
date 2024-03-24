@@ -2,7 +2,7 @@
 
 :::tip
 
-需要答疑服务的同学，联系微信：nodeing-cn
+需要答疑服务的同学，联系微信：Michael-Niuma
 
 :::
 

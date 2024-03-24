@@ -3,7 +3,7 @@
 联系方式
 
 ```
-抖音号：bokecity_com，微信号(客服，不提供技术答疑)：nodeing-cn
+抖音号：bokecity_com，微信号(客服，不提供技术答疑)：Michael-Niuma
 ```
 
 ### 实训平台是什么
