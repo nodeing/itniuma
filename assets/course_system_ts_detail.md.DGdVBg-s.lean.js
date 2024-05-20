@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.t0t3spwR.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"course/system/ts/detail.md","filePath":"course/system/ts/detail.md"}'),a={name:"course/system/ts/detail.md"};function r(o,c,n,d,i,m){return s(),t("div")}const _=e(a,[["render",r]]);export{p as __pageData,_ as default};
