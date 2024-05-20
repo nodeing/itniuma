@@ -39,6 +39,7 @@ export default {
     siteTitle: '牛马程序员',
     logo: '/logo.png',
     outlineTitle: '大纲',
+    appearance: 'dark',
     nav,
     sidebar,
     outline: [1, 3],
@@ -46,6 +47,12 @@ export default {
       message: '我的微信: Michael-Niuma',
       copyright:
         "课程内容版权均归 洛邪 版权所有;ICP备案号：<a href='https://beian.miit.gov.cn/#/Integrated/index'>蜀ICP备2022017859号-4</a>"
+    }
+  },
+  vite: {
+    server: {
+      host: 'nodeing.com.cn',
+      port: 5173 // 指定端口号
     }
   },
   markdown: {
