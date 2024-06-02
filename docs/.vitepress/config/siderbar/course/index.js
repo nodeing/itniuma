@@ -4,9 +4,13 @@ export default {
       text: '课程导航',
       items: [
         {
-          text: 'TS全栈开发',
-          link: '/course/system/ts/'
+          text: 'Java全栈接单训练营',
+          link: '/course/system/java/'
         }
+        // {
+        //   text: 'TS全栈体系课',
+        //   link: 'https://bokecity.com/path'
+        // }
       ]
     }
   ],
