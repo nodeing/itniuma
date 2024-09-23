@@ -10,6 +10,10 @@ export default {
         {
           text: '接单训练营上课指南',
           link: '/course/system/java/guide.html'
+        },
+        {
+          text: '课程更新日志',
+          link: '/course/system/java/update.html'
         }
         // {
         //   text: 'TS全栈体系课',
