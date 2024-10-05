@@ -148,5 +148,28 @@ export default {
         }
       ]
     }
+  ],
+  '/article/crowdsourcing/': [
+    {
+      text: '导航',
+      items: [
+        // This shows `/guide/index.md` page.
+        { text: '社群详解', link: '/article/crowdsourcing/index.html' },
+        { text: '副业故事', link: '/article/crowdsourcing/story/index.html' }
+      ]
+    }
+  ],
+  '/article/product/': [
+    {
+      text: '产品目录',
+
+      items: [
+        // This shows `/guide/index.md` page.
+        { text: '产品汇总', link: '/article/product/index.html' },
+        { text: '螺钉众包', link: '/article/product/nodeing.html' },
+        { text: '僰课学城', link: '/article/product/bokecity.html' },
+        { text: '僰课英语', link: '/article/product/bokeen.html' }
+      ]
+    }
   ]
 }
