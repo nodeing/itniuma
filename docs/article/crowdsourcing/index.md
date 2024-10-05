@@ -34,9 +34,17 @@
 
 <style>
 iframe{
-    width:720px;
+    width: 720px;
     height:480px;
     border-radius:8px;
+}
+/* 对于小于等于 768px 的屏幕 */
+@media screen and (max-width: 768px) {
+    iframe {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16 / 9; /* 保持 16:9 的宽高比 */
+    }
 }
 </style>
 
