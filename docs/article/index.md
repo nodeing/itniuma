@@ -12,6 +12,10 @@
 
 [【文章】牛马程序员如何写一份亮瞎眼的简历？](/article/interview/index.md)
 
+## 2024.10
+
+[【文章】使用 jabba 管理 Java 版本](/article/2024.10/1.html)
+
 ## 2023.12
 
 [【转载】【李笑来开源文章】人人都能用英语](/article/2023.12/everyone-can-use-english/README.md)
