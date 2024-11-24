@@ -40,7 +40,7 @@
 以下是视频介绍，内容有点长，但很详细，请耐心看完，如果实在没耐心，请先看后面的文字介绍，文字介绍看完后还有兴趣加入，再看视频介绍
 :::
 
-<iframe src="//player.bilibili.com/player.html?aid=1700605061&bvid=BV1EK421k7bp&cid=1442437674&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113536856621917&bvid=BV1DEB4YFEpK&cid=26957972699&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <style>
 iframe{
