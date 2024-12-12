@@ -12,6 +12,10 @@
 
 [【文章】牛马程序员如何写一份亮瞎眼的简历？](/article/interview/index.md)
 
+## 2024.12
+
+[【文章】使用 frp 搭建内网穿透服务](/article/2024.12/1.html)
+
 ## 2024.10
 
 [【文章】使用 jabba 管理 Java 版本](/article/2024.10/1.html)
