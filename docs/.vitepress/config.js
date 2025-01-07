@@ -49,12 +49,12 @@ export default {
         "课程内容版权均归 洛邪 版权所有;ICP备案号：<a href='https://beian.miit.gov.cn'>蜀ICP备2022017859号-4</a>"
     }
   },
-  vite: {
-    server: {
-      host: 'nodeing.com.cn',
-      port: 5173 // 指定端口号
-    }
-  },
+  // vite: {
+  //   server: {
+  //     host: 'nodeing.com.cn',
+  //     port: 5173 // 指定端口号
+  //   }
+  // },
   markdown: {
     config: (md) => {
       // use more markdown-it plugins!markdownItLatex
