@@ -12,6 +12,10 @@
 
 [【文章】牛马程序员如何写一份亮瞎眼的简历？](/article/interview/index.md)
 
+## 2025.02
+
+[【文章】【纯国产 AI 组合】 deepseek 第三方 api 服务使用教程](/article/2025.02/1.html)
+
 ## 2024.12
 
 [【文章】使用 frp 搭建内网穿透服务](/article/2024.12/1.html)
