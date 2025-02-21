@@ -14,6 +14,8 @@
 
 ## 2025.02
 
+[【文章】最快的 DeepSeek R1 满血版推荐](/article/2025.02/3.html)
+
 [【文章】轻松订阅海外应用零基础使用教程](/article/2025.02/2.html)
 
 [【文章】【纯国产 AI 组合】 deepseek 第三方 api 服务使用教程](/article/2025.02/1.html)
