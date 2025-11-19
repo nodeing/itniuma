@@ -12,6 +12,10 @@
 
 [【文章】牛马程序员如何写一份亮瞎眼的简历？](/article/interview/index.md)
 
+## 2025.11
+
+[【文章】 Google Gemini 3 Pro 体验教程](/article/2025.11/1.html)
+
 ## 2025.02
 
 [【文章】最快的 DeepSeek R1 满血版推荐](/article/2025.02/3.html)
