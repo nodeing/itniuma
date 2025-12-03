@@ -12,6 +12,10 @@
 
 [【文章】牛马程序员如何写一份亮瞎眼的简历？](/article/interview/index.md)
 
+## 2025.12
+
+[【文章】 Augment Context Engine 安装教程](/article/2025.12/1.html)
+
 ## 2025.11
 
 [【文章】 Google Gemini 3 Pro 体验教程](/article/2025.11/1.html)
