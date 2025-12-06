@@ -16,6 +16,14 @@
 
 [【文章】 Augment Context Engine 安装教程](/article/2025.12/1.html)
 
+[【活动】Kiro Pro+ 1 个月免费会员领取教程（Kiroween 活动）（12 月 5 号过后失效）](/article/2025.12/2.html)
+
+[【资讯】国产 GPU 里程碑：从摩尔线程上市看程序员的黄金时代](/article/2025.12/3.html)
+
+[【教程】GPT-5.1-Codex-Max 提示词完全指南（通俗版）](/article/2025.12/4.html)
+
+[【报告解读】OpenRouter《State of AI》报告深度解读：100 万亿 tokens 背后的 AI 真相](/article/2025.12/5.html)
+
 ## 2025.11
 
 [【文章】 Google Gemini 3 Pro 体验教程](/article/2025.11/1.html)
